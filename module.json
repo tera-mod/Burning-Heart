@@ -1,0 +1,11 @@
+{
+    "name": "Burning-Heart",
+    "options": {
+        "niceName": "忍者喷火",
+        "cliName": "忍者喷火",
+        "guiName": "<font color='#00FFFF'>Burning-Heart</font>",
+        "reloadable": true
+    },
+    "author": "ZC",
+    "description": "忍者(普通攻击) - 无查克拉消耗即可释放 觉醒-多重分身火焰術(默认自动循环)"
+}
